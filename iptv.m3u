@@ -1,3 +1,23 @@
+#EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5.png" group-title="央视频道",CCTV-5
+http://82.156.243.185:36888/av3a/cctv5n.m3u8
+#EXTINF:-1 tvg-name="CCTV-5P" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5p.png" group-title="央视频道",CCTV-5P
+http://82.156.243.185:36888/av3a/cctv5pn.m3u8
+#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv16.png" group-title="央视频道",CCTV-16
+http://82.156.243.185:36888/av3a/cctv16n.m3u8
+#EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv4k.png" group-title="央视频道",CCTV-4K
+http://82.156.243.185:36888/av3a/cctv4kn.m3u8
+#EXTINF:-1 tvg-name="CCTV-8K" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="央视频道",CCTV-8K
+http://82.156.243.185:36888/av3a/cctv8kn.m3u8
+#EXTINF:-1 tvg-name="CCTV-5-AV3A" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5.png" group-title="央视频道",CCTV-5-AV3A
+http://82.156.243.185:36888/av3a/cctv5.m3u8
+#EXTINF:-1 tvg-name="CCTV-5P-AV3A" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5p.png" group-title="央视频道",CCTV-5P-AV3A
+http://82.156.243.185:36888/av3a/cctv5p.m3u8
+#EXTINF:-1 tvg-name="CCTV-16-AV3A" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv16.png" group-title="央视频道",CCTV-16-AV3A
+http://82.156.243.185:36888/av3a/cctv16.m3u8
+#EXTINF:-1 tvg-name="CCTV-4K-AV3A" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv4k.png" group-title="央视频道",CCTV-4K-AV3A
+http://82.156.243.185:36888/av3a/cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV-8K-AV3A" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="央视频道",CCTV-8K-AV3A
+http://82.156.243.185:36888/av3a/cctv8k.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-id="1"tvg-name="CCTV-1高清",CCTV-1高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227479/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-id="2"tvg-name="CCTV-2高清",CCTV-2高清
@@ -34,93 +54,93 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227577/index.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227417/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-id="20"tvg-name="CCTV-5+高清",CCTV-5+高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227493/index.m3u8
-#EXTINF:-1tvg-id="22"tvg-name="SCTV-2高清",SCTV-2高清
+#EXTINF:-1 group-title="四川卫视" tvg-id="22"tvg-name="SCTV-2高清",SCTV-2高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227415/index.m3u8
-#EXTINF:-1tvg-id="23"tvg-name="SCTV-3高清",SCTV-3高清
+#EXTINF:-1 group-title="四川卫视" tvg-id="23"tvg-name="SCTV-3高清",SCTV-3高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227413/index.m3u8
-#EXTINF:-1tvg-id="24"tvg-name="SCTV-4高清",SCTV-4高清
+#EXTINF:-1 group-title="四川卫视" tvg-id="24"tvg-name="SCTV-4高清",SCTV-4高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227411/index.m3u8
-#EXTINF:-1tvg-id="25"tvg-name="SCTV-5高清",SCTV-5高清
+#EXTINF:-1 group-title="四川卫视" tvg-id="25"tvg-name="SCTV-5高清",SCTV-5高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227409/index.m3u8
-#EXTINF:-1tvg-id="26"tvg-name="SCTV-6高清",SCTV-6高清
+#EXTINF:-1 group-title="四川卫视" tvg-id="26"tvg-name="SCTV-6高清",SCTV-6高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227407/index.m3u8
-#EXTINF:-1tvg-id="27"tvg-name="SCTV-7高清",SCTV-7高清
+#EXTINF:-1 group-title="四川卫视" tvg-id="27"tvg-name="SCTV-7高清",SCTV-7高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227405/index.m3u8
-#EXTINF:-1tvg-id="28"tvg-name="SCTV-科教高清",SCTV-科教高清
+#EXTINF:-1 group-title="四川卫视" tvg-id="28"tvg-name="SCTV-科教高清",SCTV-科教高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227936/index.m3u8
-#EXTINF:-1tvg-id="29"tvg-name="SCTV-9高清",SCTV-9高清
+#EXTINF:-1 group-title="四川卫视" tvg-id="29"tvg-name="SCTV-9高清",SCTV-9高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227403/index.m3u8
-#EXTINF:-1tvg-id="30"tvg-name="峨眉电影高清",峨眉电影高清
+#EXTINF:-1 group-title="四川卫视" tvg-id="30"tvg-name="峨眉电影高清",峨眉电影高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227942/index.m3u8
-#EXTINF:-1tvg-id="31"tvg-name="康巴卫视高清",康巴卫视高清
+#EXTINF:-1 group-title="四川卫视" tvg-id="31"tvg-name="康巴卫视高清",康巴卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227629/index.m3u8
-#EXTINF:-1tvg-id="35"tvg-name="湖南卫视高清",湖南卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="35"tvg-name="湖南卫视高清",湖南卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227369/index.m3u8
-#EXTINF:-1tvg-id="36"tvg-name="浙江卫视高清",浙江卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="36"tvg-name="浙江卫视高清",浙江卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227351/index.m3u8
-#EXTINF:-1tvg-id="37"tvg-name="江苏卫视高清",江苏卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="37"tvg-name="江苏卫视高清",江苏卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227421/index.m3u8
-#EXTINF:-1tvg-id="38"tvg-name="东方卫视高清",东方卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="38"tvg-name="东方卫视高清",东方卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227401/index.m3u8
-#EXTINF:-1tvg-id="39"tvg-name="北京卫视高清",北京卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="39"tvg-name="北京卫视高清",北京卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227397/index.m3u8
-#EXTINF:-1tvg-id="40"tvg-name="辽宁卫视高清",辽宁卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="40"tvg-name="辽宁卫视高清",辽宁卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227345/index.m3u8
-#EXTINF:-1tvg-id="41"tvg-name="深圳卫视高清",深圳卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="41"tvg-name="深圳卫视高清",深圳卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227419/index.m3u8
-#EXTINF:-1tvg-id="42"tvg-name="天津卫视高清",天津卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="42"tvg-name="天津卫视高清",天津卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227343/index.m3u8
-#EXTINF:-1tvg-id="43"tvg-name="山东卫视高清",山东卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="43"tvg-name="山东卫视高清",山东卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227365/index.m3u8
-#EXTINF:-1tvg-id="44"tvg-name="广东卫视高清",广东卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="44"tvg-name="广东卫视高清",广东卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227361/index.m3u8
-#EXTINF:-1tvg-id="45"tvg-name="湖北卫视高清",湖北卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="45"tvg-name="湖北卫视高清",湖北卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227367/index.m3u8
-#EXTINF:-1tvg-id="46"tvg-name="黑龙江卫视高清",黑龙江卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="46"tvg-name="黑龙江卫视高清",黑龙江卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227347/index.m3u8
-#EXTINF:-1tvg-id="47"tvg-name="安徽卫视高清",安徽卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="47"tvg-name="安徽卫视高清",安徽卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227363/index.m3u8
-#EXTINF:-1tvg-id="48"tvg-name="重庆卫视高清",重庆卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="48"tvg-name="重庆卫视高清",重庆卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227359/index.m3u8
-#EXTINF:-1tvg-id="49"tvg-name="贵州卫视高清",贵州卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="49"tvg-name="贵州卫视高清",贵州卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227357/index.m3u8
-#EXTINF:-1tvg-id="50"tvg-name="江西卫视高清",江西卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="50"tvg-name="江西卫视高清",江西卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227355/index.m3u8
-#EXTINF:-1tvg-id="51"tvg-name="河北卫视高清",河北卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="51"tvg-name="河北卫视高清",河北卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227399/index.m3u8
-#EXTINF:-1tvg-id="52"tvg-name="东南卫视高清",东南卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="52"tvg-name="东南卫视高清",东南卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227353/index.m3u8
-#EXTINF:-1tvg-id="53"tvg-name="河南卫视高清",河南卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="53"tvg-name="河南卫视高清",河南卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227923/index.m3u8
-#EXTINF:-1tvg-id="54"tvg-name="广西卫视高清",广西卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="54"tvg-name="广西卫视高清",广西卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227939/index.m3u8
-#EXTINF:-1tvg-id="55"tvg-name="吉林卫视高清",吉林卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="55"tvg-name="吉林卫视高清",吉林卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227935/index.m3u8
-#EXTINF:-1tvg-id="56"tvg-name="甘肃卫视高清",甘肃卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="56"tvg-name="甘肃卫视高清",甘肃卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227937/index.m3u8
-#EXTINF:-1tvg-id="57"tvg-name="中国交通",中国交通
+#EXTINF:-1 group-title="全国卫视" tvg-id="57"tvg-name="中国交通",中国交通
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227499/index.m3u8
-#EXTINF:-1tvg-id="58"tvg-name="云南卫视高清",云南卫视高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="58"tvg-name="云南卫视高清",云南卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227962/index.m3u8
 #EXTINF:-1tvg-id="59"tvg-name="陕西卫视高清",陕西卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228078/index.m3u8
-#EXTINF:-1tvg-id="93"tvg-name="金鹰纪实高清",金鹰纪实高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="93"tvg-name="金鹰纪实高清",金鹰纪实高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227371/index.m3u8
-#EXTINF:-1tvg-id="94"tvg-name="北京纪实科教高清",北京纪实科教高清
+#EXTINF:-1 group-title="全国卫视" tvg-id="94"tvg-name="北京纪实科教高清",北京纪实科教高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228069/index.m3u8
-#EXTINF:-1tvg-id="96"tvg-name="CETV-1高清",CETV-1高清
+#EXTINF:-1 group-title="CGTN" tvg-id="96"tvg-name="CETV-1高清",CETV-1高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227339/index.m3u8
-#EXTINF:-1tvg-id="116"tvg-name="CGTN英语",CGTN英语高清
+#EXTINF:-1 group-title="CGTN" tvg-id="116"tvg-name="CGTN英语",CGTN英语高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228075/index.m3u8
-#EXTINF:-1tvg-id="117"tvg-name="CGTN纪录",CGTN纪录
+#EXTINF:-1 group-title="CGTN" tvg-id="117"tvg-name="CGTN纪录",CGTN纪录
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228146/index.m3u8
-#EXTINF:-1tvg-id="118"tvg-name="CGTN西班牙语",CGTN西班牙语
+#EXTINF:-1 group-title="CGTN" tvg-id="118"tvg-name="CGTN西班牙语",CGTN西班牙语
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228148/index.m3u8
-#EXTINF:-1tvg-id="119"tvg-name="CGTN法语",CGTN法语
+#EXTINF:-1 group-title="CGTN" tvg-id="119"tvg-name="CGTN法语",CGTN法语
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228131/index.m3u8
-#EXTINF:-1tvg-id="120"tvg-name="CGTN阿拉伯语",CGTN阿拉伯语
+#EXTINF:-1 group-title="CGTN" tvg-id="120"tvg-name="CGTN阿拉伯语",CGTN阿拉伯语
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228133/index.m3u8
-#EXTINF:-1tvg-id="121"tvg-name="CGTN俄语",CGTN俄语
+#EXTINF:-1 group-title="CGTN" tvg-id="121"tvg-name="CGTN俄语",CGTN俄语
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228150/index.m3u8
 #EXTINF:-1tvg-id="150"tvg-name="厦门卫视",厦门卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227938/index.m3u8
