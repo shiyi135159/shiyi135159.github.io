@@ -115,6 +115,8 @@ https://event.pull.hebtv.com:443/live/live101.m3u8
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="4K8K频道",CCTV4K
 http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="4K8K频道",CCTV4K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 
 # China Unicom
 #EXTINF:-1 group-title="央视频道" tvg-id="1"tvg-name="CCTV-1高清",CCTV-1高清
